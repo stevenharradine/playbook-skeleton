@@ -1,0 +1,11 @@
+---
+galaxy_info:
+  author: Aaron Pederson
+  description: Skeleton - An script that builds out the directory structure and commonalities of our ansible playbooks.
+  license: MIT
+  platforms:
+    - name: Ubuntu
+      versions:
+        - trusty
+      categories:
+        - packaging
