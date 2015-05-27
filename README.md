@@ -1,6 +1,6 @@
 # playbook-skeleton
 
-Skeleton - An script that builds out the directory structure and commonalities of our ansible playbooks.
+Skeleton - A script that builds out the directory structure and commonalities of our ansible playbooks.
 
 License
 -------
